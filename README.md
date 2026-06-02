@@ -83,3 +83,34 @@ Build a machine learning model that:
 ---
 
 ## 📁 Project Structure
+
+
+CodeAlpha_CreditScoring/
+│
+├── credit_scoring_model.ipynb # Complete Jupyter/Colab notebook
+├── credit_risk_model.pkl # Saved trained model
+├── scaler.pkl # Saved StandardScaler
+├── feature_columns.pkl # Saved feature names
+├── dataset.csv # Your dataset file
+├── README.md # Project documentation
+└── requirements.txt # Required packages
+
+
+
+---
+
+## 🎯 How to Copy and Paste:
+
+1. **Click and drag** your mouse from the very first line (`# 🏦 Credit Scoring Model`) to the very last line (`share it with others!`)
+2. **Press `Ctrl + C`** (Windows) or `Cmd + C` (Mac)
+3. **Go to your GitHub repository**
+4. **Click "Add file" → "Create new file"**
+5. **Name the file:** `README.md`
+6. **Press `Ctrl + V`** (Windows) or `Cmd + V` (Mac) to paste
+7. **Scroll down and click "Commit new file"**
+
+---
+
+## ✅ Done!
+
+Aapka README file ab GitHub par ready hai. Bas apna **name** aur **GitHub username** update kar dena author section mein.
